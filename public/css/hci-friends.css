@@ -8,7 +8,13 @@
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */	
 	color: #CC00AA;
 }
+.friends {
+		max-width: 400px;
+}
+.friends img{
+		max-width: 400px;
+}
 
-h1, h2, h3, h4, h5 {
+h1, h2, h3, h4 {
 	color: #8382BF;
 }
